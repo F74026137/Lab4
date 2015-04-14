@@ -1,0 +1,18 @@
+Question A:
+
+00000000004004b4 T _Z7averagePdRd
+00000000004004e2 T _Z7averageif
+000000000040050a T main
+
+Question B:
+
+output:
+1 8
+4 8
+4 8
+8 8
+
+char的size是1,
+int和float的size是4,
+double的size是8,
+而pa,pd,pc,pd都是pointer,size都是8
